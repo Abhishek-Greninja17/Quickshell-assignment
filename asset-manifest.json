@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/Quickshell-assignment/static/css/main.20ff58c2.css",
+    "main.js": "/github.io/Quickshell-assignment/static/js/main.7118d7cf.js",
+    "index.html": "/github.io/Quickshell-assignment/index.html",
+    "main.20ff58c2.css.map": "/github.io/Quickshell-assignment/static/css/main.20ff58c2.css.map",
+    "main.7118d7cf.js.map": "/github.io/Quickshell-assignment/static/js/main.7118d7cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20ff58c2.css",
+    "static/js/main.7118d7cf.js"
+  ]
+}
