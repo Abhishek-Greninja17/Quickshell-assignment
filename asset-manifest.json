@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/github.io/Quickshell-assignment/static/css/main.20ff58c2.css",
-    "main.js": "/github.io/Quickshell-assignment/static/js/main.7118d7cf.js",
-    "index.html": "/github.io/Quickshell-assignment/index.html",
-    "main.20ff58c2.css.map": "/github.io/Quickshell-assignment/static/css/main.20ff58c2.css.map",
-    "main.7118d7cf.js.map": "/github.io/Quickshell-assignment/static/js/main.7118d7cf.js.map"
+    "main.css": "/Quickshell-assignment/static/css/main.20ff58c2.css",
+    "main.js": "/Quickshell-assignment/static/js/main.9866702c.js",
+    "index.html": "/Quickshell-assignment/index.html",
+    "main.20ff58c2.css.map": "/Quickshell-assignment/static/css/main.20ff58c2.css.map",
+    "main.9866702c.js.map": "/Quickshell-assignment/static/js/main.9866702c.js.map"
   },
   "entrypoints": [
     "static/css/main.20ff58c2.css",
-    "static/js/main.7118d7cf.js"
+    "static/js/main.9866702c.js"
   ]
 }
